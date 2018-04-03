@@ -1,0 +1,46 @@
+==LIST OF SYMPTOMS for== http://www.nhs.uk/Conditions/Turners-syndrome/Pages/Symptoms.aspx
+==LIST OF SYMPTOMS==
+ pain
+Pain
+overactivity
+Tiredness
+restlessness
+
+==============================
+See more details below
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: Pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: Tiredness
+FEATURES
+majorType=General_symptoms
+disease=Malaise and fatigue
+disease_class=General symptoms and signs
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: overactivity
+FEATURES
+majorType=Cognition
+disease_class=Symptoms and signs involving appearance and behaviour
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: restlessness
+FEATURES
+majorType=Cognition
+disease_class=Symptoms and signs involving emotional state
+minorType=Symptoms-Sign
+==============================
+=============FINISHED=================

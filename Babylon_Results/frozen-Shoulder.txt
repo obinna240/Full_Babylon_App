@@ -1,0 +1,108 @@
+==LIST OF SYMPTOMS for== http://www.nhs.uk/conditions/frozen-shoulder/Pages/Symptoms.aspx
+==LIST OF SYMPTOMS==
+pain
+Pain
+Tiredness
+
+==============================
+See more details below
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: Pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: Pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: Tiredness
+FEATURES
+majorType=General_symptoms
+disease=Malaise and fatigue
+disease_class=General symptoms and signs
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: Pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+=============FINISHED=================

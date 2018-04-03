@@ -1,0 +1,52 @@
+Rapid heart beat&disease=Tachycardia&disease_class=Abnormalities of heart beat
+sinoauricular&disease=Tachycardia&disease_class=Abnormalities of heart beat
+sinus&disease=Tachycardia&disease_class=Abnormalities of heart beat
+sinoatrial&disease=Bradycardia&disease_class=Abnormalities of heart beat
+sinus&disease=Bradycardia&disease_class=Abnormalities of heart beat
+vagal&disease=Bradycardia&disease_class=Abnormalities of heart beat
+Slow heart beat&disease=Bradycardia&disease_class=Abnormalities of heart beat
+Awareness of heart beat&disease=Palpitations&disease_class=Abnormalities of heart beat
+Functional cardiac murmur&disease=Benign and innocent cardiac murmurs&disease_class=Cardiac murmurs and other cardiac sounds
+Cardiac bruit&disease=Cardiac murmur&disease_class=Cardiac murmurs and other cardiac sounds
+Systolic murmur&disease=Cardiac murmur&disease_class=Cardiac murmurs and other cardiac sounds
+Cardiac dullness&disease=Other cardiac sounds&disease_class=Cardiac murmurs and other cardiac sounds
+Precordial friction&disease=Other cardiac sounds&disease_class=Cardiac murmurs and other cardiac sounds
+Haemorrhage from nose&disease=Epistaxis&disease_class=Haemorrhage from respiratory passages
+Nosebleed&disease=Epistaxis&disease_class=Haemorrhage from respiratory passages
+Nose bleed&disease=Epistaxis&disease_class=Haemorrhage from respiratory passages
+Gangrene
+Abnormal blood-pressure
+Blood-stained sputum&disease=Haemoptysis&disease_class=Haemorrhage from respiratory passages
+Cough with haemorrhage&disease=Haemoptysis&disease_class=Haemorrhage from respiratory passages
+Cough
+Coughs
+Coughing
+Haemorrhage from respiratory passages
+Orthopnoea&disease=Dyspnoea&disease_class=Abnormalities of breathing
+Shortness of breath&disease=Dyspnoea&disease_class=Abnormalities of breathing
+Stridor
+Wheezing
+Cheyne-Stokes breathing&disease=Periodic breathing&disease_class=Abnormalities of breathing
+Hyperventilation
+Snoring&disease=Mouth breathing&disease_class=Abnormalities of breathing
+Hiccough
+Sneezing
+Apnoea&disease=Other and unspecified abnormalities of breathing&disease_class=Abnormalities of breathing
+Breath-holding=Other and unspecified abnormalities of breathing&disease_class=Abnormalities of breathing
+Breath-holding spells=Other and unspecified abnormalities of breathing&disease_class=Abnormalities of breathing
+Choking sensation=Other and unspecified abnormalities of breathing&disease_class=Abnormalities of breathing
+Sighing=Other and unspecified abnormalities of breathing&disease_class=Abnormalities of breathing
+Pain in throat&disease_class=Pain in throat and chest
+Painful respiration&disease=Chest pain on breathing&disease_class=Pain in throat and chest
+Precordial pain&disease_class=Pain in throat and chest
+Anterior chest-wall pain&disease=Other chest pain&disease_class=Pain in throat and chest
+Chest pain
+Asphyxia&disease_class=Other symptoms and signs involving the circulatory and respiratory systems
+Pleurisy&disease_class=Other symptoms and signs involving the circulatory and respiratory systems
+Bruit&disease_class=Other symptoms and signs involving the circulatory and respiratory systems
+Bruit arterial&disease_class=Other symptoms and signs involving the circulatory and respiratory systems
+abnormal percussion&disease_class=Other symptoms and signs involving the circulatory and respiratory systems&body_part=Chest
+friction sounds&disease_class=Other symptoms and signs involving the circulatory and respiratory systems&body_part=Chest
+tympany&disease_class=Other symptoms and signs involving the circulatory and respiratory systems&body_part=Chest
+Rales&disease_class=Other symptoms and signs involving the circulatory and respiratory systems
+Weak pulse&disease_class=Other symptoms and signs involving the circulatory and respiratory systems

@@ -1,0 +1,93 @@
+Fever&disease_class=General symptoms and signs
+puerperal pyrexia&disease=fever&disease_class=General symptoms and signs
+Drug-induced fever&disease=fever&disease_class=General symptoms and signs
+Fever with chills&disease=fever&disease_class=General symptoms and signs
+Fever with rigors&disease=fever&disease_class=General symptoms and signs
+Persistent fever&disease=fever&disease_class=General symptoms and signs
+Hyperpyrexia&disease=fever&disease_class=General symptoms and signs
+Pyrexia&disease=fever&disease_class=General symptoms and signs
+Headache
+Headaches
+Facial pain&disease=Headache&disease_class=General symptoms and signs
+Pain
+Acute pain
+Chronic intractable pain
+chronic pain
+Generalized pain&disease=pain&disease_class=General symptoms and signs
+Malaise and fatigue&disease=Malaise and fatigue&disease_class=General symptoms and signs
+Asthenia&disease=Malaise and fatigue&disease_class=General symptoms and signs
+Debility&disease=Malaise and fatigue&disease_class=General symptoms and signs
+chronic Debility&disease=Malaise and fatigue&disease_class=General symptoms and signs
+General physical deterioration&disease=Malaise and fatigue&disease_class=General symptoms and signs
+Lethargy&disease=Malaise and fatigue&disease_class=General symptoms and signs
+Tiredness&disease=Malaise and fatigue&disease_class=General symptoms and signs
+Old age&disease=Senility&disease_class=General symptoms and signs
+Senescence&disease=Senility&disease_class=General symptoms and signs
+Senile&disease=Senility&disease_class=General symptoms and signs
+asthenia&disease=Senility&disease_class=General symptoms and signs
+Blackout&disease=Syncope and collapse&disease_class=General symptoms and signs
+Fainting&disease=Syncope and collapse&disease_class=General symptoms and signs
+Convulsions&disease_class=General symptoms and signs
+Febrile convulsions&disease_class=General symptoms and signs
+Fit&disease_class=General symptoms and signs
+Fits&disease_class=General symptoms and signs
+Seizure&disease_class=General symptoms and signs
+Seizures&disease_class=General symptoms and signs
+Shock
+Cardiogenic shock
+Septic shock
+Endotoxic shock
+Failure of peripheral circulation&diseasae=Shock&disease_class=General symptoms and signs
+Haemorrhage&disease=Haemorrhage&disease_class=General symptoms and signs
+swollen glands&disease=Enlarged lymph nodes&disease_class=General symptoms and signs
+Localized enlarged lymph nodes&disease_class=General symptoms and signs
+Lymphadenopathy&disease=Generalized enlarged lymph nodes&disease_class=General symptoms and signs
+Enlarged lymph nodes
+Oedema
+Localized oedema
+Generalized oedema
+Fluid retention&disease=Oedema&disease_class=General symptoms and signs
+Hyperhidrosis
+Localized hyperhidrosis
+Generalized hyperhidrosis
+Excessive sweating&disease=Hyperhidrosis&disease_class=General symptoms and signs
+Night sweats&disease=Hyperhidrosis&disease_class=General symptoms and signs
+Lack of expected normal physiological development
+Delayed milestone
+Delayed attainment of expected physiological developmental stage
+Late talker
+Late walker
+Failure to gain weight
+Failure to thrive
+Infantilism
+Lack of growth
+Physical retardation
+Lack of expected normal physiological development
+Loss of appetite&disease=Anorexia&disease_class=Symptoms and signs concerning food and fluid intake
+Excessive thirst&disease=Polydipsia&disease_class=Symptoms and signs concerning food and fluid intake
+Excessive eating&disease=Polyphagia&disease_class=Symptoms and signs concerning food and fluid intake
+Hyperalimentation&disease=Polyphagia&disease_class=Symptoms and signs concerning food and fluid intake
+Feeding problem&disease=Feeding difficulties and mismanagement&disease_class=Symptoms and signs concerning food and fluid intake
+Abnormal weight loss
+Abnormal weight gain
+Insufficient intake of food and water due to self neglect
+Cachexia
+Systemic Inflammatory Response SyndromeSystemic Inflammatory Response Syndrome of infectious origin without organ failure
+Severe sepsis&disease=Systemic Inflammatory Response Syndrome of infectious origin with organ failure
+Systemic Inflammatory Response Syndrome of non-infectious origin without organ failure
+Systemic Inflammatory Response Syndrome of non-infectious origin with organ failure
+Systemic Inflammatory Response Syndrome, unspecified
+Hypothermia, not associated with low environmental temperature
+Excessive crying of infant&disease=Nonspecific symptoms peculiar to infancy
+Irritable infant&disease=Nonspecific symptoms peculiar to infancy
+Dry mouth&disease_class=General symptoms and signs
+Clubbing of nails&disease=Clubbing of fingers
+Illness&disease=Unknown and unspecified causes of morbidity
+Runny nose&disease_class=General symptoms and signs
+stuffy nose&disease_class=General symptoms and signs
+Sore throat&disease_class=General symptoms and signs
+Congestion&disease_class=General symptoms and signs
+Slight body aches&disease_class=General symptoms and signs
+mild headache&disease_class=General symptoms and signs
+Sneezing&disease_class=General symptoms and signs
+Low-grade fever&disease_class=General symptoms and signs

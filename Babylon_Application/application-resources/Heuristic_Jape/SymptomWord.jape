@@ -1,0 +1,11 @@
+Phase:SymptomIdentifier
+Input:Token
+Options: control = appelt debug = true
+Rule: SymptomText
+(
+{Token.string == "Symptoms"}|{Token.string == "symptoms"}|{Token.string == "Symptom"}|{Token.string == "symptom"}
+):SymptomWord
+-->
+:SymptomWord.SymptomWord= {}
+
+

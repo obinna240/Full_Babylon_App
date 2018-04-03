@@ -1,0 +1,15 @@
+
+Phase:ListOfSymptoms
+Input:SymptomList Sentence SynSentence
+Options: control = appelt debug = true
+Rule: ListOfSymptoms
+(({SynSentence}):SynSentence
+({Sentence,SymptomList})+)
+:listSymptom
+-->
+:listSymptom.SymptomList_Description = {symptomTitle = :SynSentence@cleanString, symptomContent = :listSymptom@cleanString},
+{
+	AnnotationSet synSentence = bindings.get("SynSentence");
+	System.out.println(synSentence);
+	inputAS.removeAll(synSentence);
+}

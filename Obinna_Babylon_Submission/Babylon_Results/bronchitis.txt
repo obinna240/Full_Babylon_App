@@ -1,0 +1,187 @@
+==LIST OF SYMPTOMS for== http://www.nhs.uk/conditions/bronchitis/Pages/Symptoms-old.aspx
+==LIST OF SYMPTOMS== 
+wheezing increasing breathlessness when exercising or moving around a persistent cough that brings up mucus (phlegm) frequent chest infections
+tiredness
+pain
+drowsy
+fever
+wheezing
+cough
+Pain
+coughing
+shortness of breath
+Tiredness
+sore throat
+ sore throat headache runny or blocked nose aches and pains tiredness
+headache
+Coughing
+
+==============================
+See more details below
+==============================
+==DETAILED LIST OF SYMPTOMS==
+==============================
+TITLE: Other symptoms of bronchitis are similar to those of other infections, such as the common cold or sinusitis , and may include
+SYMPTOMS: sore throat headache runny or blocked nose aches and pains tiredness
+==============================
+==============================
+TITLE: The symptoms of COPD can include
+SYMPTOMS: wheezing increasing breathlessness when exercising or moving around a persistent cough that brings up mucus (phlegm) frequent chest infections
+==============================
+==See More details below==
+==============================
+SYMPTOMS TYPE: wheezing
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: cough
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: cough
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: fever
+FEATURES
+majorType=General_symptoms
+disease_class=General symptoms and signs
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: fever
+FEATURES
+majorType=Feeling
+minorType=Symptoms-Sign
+Presentation=feel
+==============================
+==============================
+SYMPTOMS TYPE: cough
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: drowsy
+FEATURES
+majorType=Cognition
+disease=Somnolence
+disease_class=Somnolence, strupor and coma
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: cough
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: cough
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: cough
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: Coughing
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: cough
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: Pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: Tiredness
+FEATURES
+majorType=General_symptoms
+disease=Malaise and fatigue
+disease_class=General symptoms and signs
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: cough
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: cough
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: sore throat
+FEATURES
+majorType=General_symptoms
+disease_class=General symptoms and signs
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: headache
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: tiredness
+FEATURES
+majorType=General_symptoms
+disease=Malaise and fatigue
+disease_class=General symptoms and signs
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: cough
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: coughing
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: shortness of breath
+FEATURES
+majorType=Circulatory and Respiratory System
+disease=Dyspnoea
+disease_class=Abnormalities of breathing
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: wheezing
+FEATURES
+majorType=Circulatory and Respiratory System
+minorType=Symptoms-Sign
+==============================
+=============FINISHED=================

@@ -1,0 +1,10 @@
+
+Phase:ListOfSymptoms
+Input:li
+
+Rule: ListOfSymptoms
+({li})
+:SentenceWithSymptom
+-->
+:SentenceWithSymptom.SymptomList= {kind = "date", rule = "YearContext1"}
+

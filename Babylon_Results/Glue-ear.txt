@@ -1,0 +1,58 @@
+==LIST OF SYMPTOMS for== http://www.nhs.uk/Conditions/Glue-ear/Pages/Symptoms.aspx
+==LIST OF SYMPTOMS==
+  episodes of mild ear pain irritability problems sleeping balance problems and clumsiness tinnitus    delayed speech and language development in younger children, if the condition lasts a long time
+pain
+irritability
+Pain
+Tiredness
+tired
+
+==============================
+See more details below
+==============================
+==DETAILED LIST OF SYMPTOMS==
+==============================
+TITLE: Less common symptoms of glue ear include
+SYMPTOMS: episodes of mild ear pain irritability problems sleeping balance problems and clumsiness tinnitus    delayed speech and language development in younger children, if the condition lasts a long time
+==============================
+==See More details below==
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: Pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: Tiredness
+FEATURES
+majorType=General_symptoms
+disease=Malaise and fatigue
+disease_class=General symptoms and signs
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: tired
+FEATURES
+majorType=Feeling
+minorType=Symptoms-Sign
+Presentation=feel
+==============================
+==============================
+SYMPTOMS TYPE: pain
+FEATURES
+majorType=General_symptoms
+minorType=Symptoms-Sign
+==============================
+==============================
+SYMPTOMS TYPE: irritability
+FEATURES
+majorType=Cognition
+minorType=Symptoms-Sign
+==============================
+=============FINISHED=================
